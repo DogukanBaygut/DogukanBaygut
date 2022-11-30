@@ -4,6 +4,10 @@
 <a href="https://github.com/DogukanBaygut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanBaygut&theme=radical&card_width=495" />
 </a>
+<a href="https://github.com/DogukanBaygut/Space-Shooter-v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DogukanBaygut&repo=Space-Shooter-v1&theme=radical" />
+</a>
+
 -  👋 Hi, I’m @DogukanBaygut
 - 👀 I am interested in game development with Unity and Unreal Engine.
 - 🌱 I'm currently working on c# and c++ and at the same time I continue to learn python.
