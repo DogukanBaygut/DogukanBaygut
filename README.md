@@ -9,7 +9,7 @@
 </a>
 
 -  👋 Hi, I’m @DogukanBaygut
-- 👀 I am interested in game development with Unity and Unreal Engine.
+- 👀 I am interested in Embedded Systems.
 - 🌱 I'm currently working on c# and c++ and at the same time I continue to learn python and web development.
 - 📫 I'm studying electrical and electronics engineering at Eskişehir Osmangazi University, I'm also interested in computer programming and game development. You can reach me via my personal email address.
 
