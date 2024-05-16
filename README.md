@@ -9,8 +9,8 @@
 </a>
 
 -  👋 Hi, I’m @DogukanBaygut
-- 👀 I am interested in Embedded Systems.
-- 🌱 I'm currently working on c# and c++ and at the same time I continue to learn python and web development.
+- 👀 I am interested in Embedded Systems and Game Developping.
+- 🌱 I'm currently working on C# and C++ and at the same time I continue to learn python and web development.
 - 📫 I'm studying electrical and electronics engineering at Eskişehir Osmangazi University, I'm also interested in computer programming and game development. You can reach me via my personal email address.
 
 mail: baygutdogukan@gmail.com
